@@ -33,7 +33,7 @@ run_list(
 # %w(git go packer tree)
 #
 # packages for OS X
-default['homebrew']['casks']      = %w(git)
+default['homebrew']['casks']      = %w(git skype cord)
 default['homebrew']['formula']    = %w()
 default['homebrew']['taps']       = %w()
 # packages for Windows
