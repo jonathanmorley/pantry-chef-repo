@@ -7,7 +7,7 @@ Pantry is a workstation automation cookbook and Chef repository. The cookbook it
 ## TL;DR:
 
 ```
-git clone https://github.com/chef/pantry-chef-repo
+git clone https://github.com/jonathanmorley/pantry-chef-repo
 cd pantry-chef-repo
 sudo ./bin/pantry -c
 ```
